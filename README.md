@@ -1,4 +1,4 @@
-## Mini Team Chat Application (Slack-Like)
+## Mini Team Chat Application 
 
 ---
 
