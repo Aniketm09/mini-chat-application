@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-The **Mini Team Chat Application** is a full-stack, real-time communication platform inspired by Slack.
+The **Mini Chat Application** is a full-stack, real-time communication platform inspired by Slack.
 It allows multiple users to communicate instantly inside channels with authentication, online presence, and message history.
 
 This project demonstrates practical skills in **full-stack development**, **real-time systems**, and **REST API design**, making it suitable for **internship and entry-level software roles**.
