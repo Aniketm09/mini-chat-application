@@ -1,4 +1,4 @@
-## Mini Team Chat Application 
+## Mini Chat Application 
 
 ---
 
